@@ -24,7 +24,7 @@ const DemoSections = () => {
         />
 
         <ExampleSection
-          title="Run It Anywhere in Your Flow, Again and Again"
+          title="Run it Anywhere in Your Flow, Again and Again"
           description="Launch a workflow by hand, put it on a schedule, or trigger it from CI, nightly regressions, or any external system—and use chat when asking a question or kicking off an action is faster than clicking. Results land wherever your team already looks. Because every workflow can be saved, shared, and standardized, the best version of a debug or coverage procedure becomes the version the whole team runs, inside your network and on-prem with local LLMs when your security model requires it."
           imageSrc="/images/run-it-anywhere.png"
           reverse={false}
